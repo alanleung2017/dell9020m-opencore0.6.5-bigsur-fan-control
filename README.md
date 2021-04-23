@@ -1,0 +1,1 @@
+# dell9020m-opencore0.6.5-bigsur-fan-control
