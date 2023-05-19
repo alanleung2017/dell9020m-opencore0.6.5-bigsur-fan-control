@@ -1041,21 +1041,21 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02408802J9G2Y7UE</string>
+			<string>DGK506270QXGQRY1M</string>
 			<key>ProcessorType</key>
-			<integer>1541</integer>
+			<integer>1542</integer>
 			<key>ROM</key>
-			<data>4TzkezIT</data>
+			<data></data>
 			<key>SpoofVendor</key>
-			<true/>
+			<false/>
 			<key>SystemMemoryStatus</key>
 			<string>Auto</string>
 			<key>SystemProductName</key>
-			<string>iMac15,1</string>
+			<string>iMac16,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02M91YMFY10</string>
+			<string>DGKP70M7GG7F</string>
 			<key>SystemUUID</key>
-			<string>7610F3AC-98A4-4BC2-8CA1-15BD86821B3A</string>
+			<string>430A843E-1B2D-4C8C-9D32-8A8C77A5CC01</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -1096,7 +1096,7 @@
 			<key>MinimumVolume</key>
 			<integer>20</integer>
 			<key>PlayChime</key>
-			<string></string>
+			<string>Auto</string>
 			<key>SetupDelay</key>
 			<integer>0</integer>
 			<key>VolumeAmplifier</key>
